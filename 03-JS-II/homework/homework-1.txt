@@ -1,0 +1,7 @@
+* `for`
+		for es una declaracion de bucle que nos ayuda a repetir una accion de manera automatica
+* `&&`, `||`, `!`
+  		estos son operadores logicos booleanos que significan basicamente nos devuuelven un significado positivo o negativo segun las variables.
+  		&& significa 'Y' por lo tanto para que el resultado sea positivo ambas variables deven cumplirse
+  		|| significa 'O' por loq eu nececitas que 1 variable se cumpla
+  		! significa Negacion o No, x lo que obtiene el valor ouesto al que se ingresa.
