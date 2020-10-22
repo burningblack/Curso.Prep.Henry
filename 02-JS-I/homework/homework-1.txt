@@ -1,0 +1,16 @@
+## Variables
+	conjunto de simbolos que definimos para almacenar una informacion determinada (valor). 
+
+## Strings
+	tipo de valor escrito en forma de texto. siempre va entre comillas ('')
+
+## Funciones (argumentos, `return`)
+	piezas de codigo que utilizamos para alterar, calcular, etc. variables ya definidas y obtener u resultado.
+		*	Los argumentos de una funcion son las variables que incluimos dentro de la misma o los comando para que funcione de determinada forma.
+		*	a declaracion 'return' nos sirve para que establecer la devolucion ooutput de la funcion.
+
+## Declaraciones `if`
+	en este caso la declaracion 'if' nos sirve para establecer condiciones a cumplir y por lo tanto resultados. Si se cumplen las condiciones o no se cumplen va a determinar un resultado diferente la funcion.
+
+## Valores booleanos (`true`, `false`)
+	tipo de vlaor con solo dos resultados, positivo o negativo.

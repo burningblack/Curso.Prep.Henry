@@ -1,4 +1,4 @@
-<img  src='../logo.png' height='70px'>
+lsas<img  src='../logo.png' height='70px'>
 
 # Lección 2: Introducción a Javascript
 
@@ -243,7 +243,7 @@ function logHola(nombre) {
 logHola('Martin');
 ```
 
-Si agregamos una variable a los paréntesis cuando declaramos la función, podemos usar esta variable dentro de nuestra función. Iniciamos el valor de esta variable pasándola a la función cuando la llamamos. Entonces en este caso `nombre = 'Martin'`. También podemos pasar otras variables a esto:
+Si agreemos usar esta variable dentro de nuestra función. Iniciamos el valor de esta variable pasándola a la función cugamos una variable a los paréntesis cuando declaramos la función, podando la llamamos. Entonces en este caso `nombre = 'Martin'`. También podemos pasar otras variables a esto:
 
 ```javascript
 function logHola(nombre) {
